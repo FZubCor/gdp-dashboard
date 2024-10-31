@@ -1,0 +1,7 @@
+[[pages]]
+path = "pages/page_1.py"
+name = "Resumen migración"
+
+[[pages]]
+path = "pages/page_2.py"
+name = "Análisis migratorio"
